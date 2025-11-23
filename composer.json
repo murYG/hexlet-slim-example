@@ -1,0 +1,22 @@
+{
+    "name": "hexlet/slim-example",
+    "description": "hexlet-slim-example",
+    "authors": [
+        {
+            "name": "murYG",
+            "email": "mur@jinr.ru"
+        }
+    ],
+	"license": ["proprietary"],
+    "autoload": {
+        "files": [
+        ]
+    },
+    "require": {
+        "slim/slim": "^4.15",
+        "slim/psr7": "^1.8",
+        "slim/http": "^1.4",
+        "slim/php-view": "^3.4",
+        "php-di/php-di": "^7.1"
+    }
+}
